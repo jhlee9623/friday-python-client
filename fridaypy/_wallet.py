@@ -3,10 +3,10 @@ import hashlib
 import bech32
 import ecdsa
 
-from cosmospy.typing import Wallet
+from fridaypy.typing import Wallet
 
 from mnemonic import Mnemonic
-from cosmospy.bip_to_mnemonic import mnemonic_to_key
+from fridaypy.bip_to_mnemonic import mnemonic_to_key
 
 #friday
 #def generate_wallet() -> Wallet:

@@ -1,0 +1,1119 @@
+I[2020-10-13|13:14:20.213] starting ABCI with Tendermint                module=main 
+defGasPrices: 0.000500000000000000atolo
+GetAccount ==================== |
+  address: friday1fl48vsnmsdzcv85q5d2q4z5ajdha8yu3zwrdr7
+  coins:
+  - denom: stake
+    amount: "100000000"
+  pubkey: ""
+  accountnumber: 3
+  sequence: 0
+  name: bonded_tokens_pool
+  permissions:
+  - burner
+  - staking
+
+GetAccount ==================== |
+  address: friday1m3h30wlvsf8llruxtpukdvsy0km2kum8lyd6af
+  coins: []
+  pubkey: ""
+  accountnumber: 5
+  sequence: 0
+  name: mint
+  permissions:
+  - minter
+
+GetAccount ==================== |
+  address: friday1m3h30wlvsf8llruxtpukdvsy0km2kum8lyd6af
+  coins: []
+  pubkey: ""
+  accountnumber: 5
+  sequence: 0
+  name: mint
+  permissions:
+  - minter
+
+GetAccount ==================== |
+  address: friday1m3h30wlvsf8llruxtpukdvsy0km2kum8lyd6af
+  coins: []
+  pubkey: ""
+  accountnumber: 5
+  sequence: 0
+  name: mint
+  permissions:
+  - minter
+
+SetAccount ==================== |
+  address: friday1m3h30wlvsf8llruxtpukdvsy0km2kum8lyd6af
+  coins:
+  - denom: stake
+    amount: "20"
+  pubkey: ""
+  accountnumber: 5
+  sequence: 0
+  name: mint
+  permissions:
+  - minter
+
+GetAccount ==================== |
+  address: friday17xpfvakm2amg962yls6f84z3kell8c5l8vfz35
+  coins: []
+  pubkey: ""
+  accountnumber: 6
+  sequence: 0
+  name: fee_collector
+  permissions: []
+
+GetAccount ==================== |
+  address: friday1m3h30wlvsf8llruxtpukdvsy0km2kum8lyd6af
+  coins:
+  - denom: stake
+    amount: "20"
+  pubkey: ""
+  accountnumber: 5
+  sequence: 0
+  name: mint
+  permissions:
+  - minter
+
+GetAccount ==================== |
+  address: friday1m3h30wlvsf8llruxtpukdvsy0km2kum8lyd6af
+  coins:
+  - denom: stake
+    amount: "20"
+  pubkey: ""
+  accountnumber: 5
+  sequence: 0
+  name: mint
+  permissions:
+  - minter
+
+SetAccount ==================== |
+  address: friday1m3h30wlvsf8llruxtpukdvsy0km2kum8lyd6af
+  coins: []
+  pubkey: ""
+  accountnumber: 5
+  sequence: 0
+  name: mint
+  permissions:
+  - minter
+
+GetAccount ==================== |
+  address: friday17xpfvakm2amg962yls6f84z3kell8c5l8vfz35
+  coins: []
+  pubkey: ""
+  accountnumber: 6
+  sequence: 0
+  name: fee_collector
+  permissions: []
+
+GetAccount ==================== |
+  address: friday17xpfvakm2amg962yls6f84z3kell8c5l8vfz35
+  coins: []
+  pubkey: ""
+  accountnumber: 6
+  sequence: 0
+  name: fee_collector
+  permissions: []
+
+SetAccount ==================== |
+  address: friday17xpfvakm2amg962yls6f84z3kell8c5l8vfz35
+  coins:
+  - denom: stake
+    amount: "20"
+  pubkey: ""
+  accountnumber: 6
+  sequence: 0
+  name: fee_collector
+  permissions: []
+
+GetAccount ==================== |
+  address: friday17xpfvakm2amg962yls6f84z3kell8c5l8vfz35
+  coins:
+  - denom: stake
+    amount: "20"
+  pubkey: ""
+  accountnumber: 6
+  sequence: 0
+  name: fee_collector
+  permissions: []
+
+GetAccount ==================== |
+  address: friday1jv65s3grqf6v6jl3dp4t6c9t9rk99cd8s2w7nk
+  coins:
+  - denom: atolo
+    amount: "100"
+  - denom: stake
+    amount: "440"
+  pubkey: ""
+  accountnumber: 1
+  sequence: 0
+  name: distribution
+  permissions: []
+
+GetAccount ==================== |
+  address: friday17xpfvakm2amg962yls6f84z3kell8c5l8vfz35
+  coins:
+  - denom: stake
+    amount: "20"
+  pubkey: ""
+  accountnumber: 6
+  sequence: 0
+  name: fee_collector
+  permissions: []
+
+GetAccount ==================== |
+  address: friday17xpfvakm2amg962yls6f84z3kell8c5l8vfz35
+  coins:
+  - denom: stake
+    amount: "20"
+  pubkey: ""
+  accountnumber: 6
+  sequence: 0
+  name: fee_collector
+  permissions: []
+
+SetAccount ==================== |
+  address: friday17xpfvakm2amg962yls6f84z3kell8c5l8vfz35
+  coins: []
+  pubkey: ""
+  accountnumber: 6
+  sequence: 0
+  name: fee_collector
+  permissions: []
+
+GetAccount ==================== |
+  address: friday1jv65s3grqf6v6jl3dp4t6c9t9rk99cd8s2w7nk
+  coins:
+  - denom: atolo
+    amount: "100"
+  - denom: stake
+    amount: "440"
+  pubkey: ""
+  accountnumber: 1
+  sequence: 0
+  name: distribution
+  permissions: []
+
+GetAccount ==================== |
+  address: friday1jv65s3grqf6v6jl3dp4t6c9t9rk99cd8s2w7nk
+  coins:
+  - denom: atolo
+    amount: "100"
+  - denom: stake
+    amount: "440"
+  pubkey: ""
+  accountnumber: 1
+  sequence: 0
+  name: distribution
+  permissions: []
+
+SetAccount ==================== |
+  address: friday1jv65s3grqf6v6jl3dp4t6c9t9rk99cd8s2w7nk
+  coins:
+  - denom: atolo
+    amount: "100"
+  - denom: stake
+    amount: "460"
+  pubkey: ""
+  accountnumber: 1
+  sequence: 0
+  name: distribution
+  permissions: []
+
+I[2020-10-13|13:14:25.422] Executed block                               module=state height=23 validTxs=0 invalidTxs=0
+I[2020-10-13|13:14:25.430] Committed state                              module=state height=23 txs=0 appHash=68738E5D210F36CCE4F1680B692CA70EAB26A8D8F84DA3C9F3164FFC2A75CAF9
+GetAccount ==================== Account:
+  Address:       friday1hszttc7vtjc9urknenmn0ldwca8uvdkzcfjemw
+  Pubkey:        fridaypub1addwnpepqdp8agzh666qe99awn7yvv876e4mxyarj234kh7e2s8mt6k8yhrwgjqcza3
+  Coins:         99999999999999999800atolo,900000000stake
+  AccountNumber: 0
+  Sequence:      2
+GetAccount ==================== Account:
+  Address:       friday1hszttc7vtjc9urknenmn0ldwca8uvdkzcfjemw
+  Pubkey:        fridaypub1addwnpepqdp8agzh666qe99awn7yvv876e4mxyarj234kh7e2s8mt6k8yhrwgjqcza3
+  Coins:         99999999999999999800atolo,900000000stake
+  AccountNumber: 0
+  Sequence:      2
+GetAccount ==================== |
+  address: friday1fl48vsnmsdzcv85q5d2q4z5ajdha8yu3zwrdr7
+  coins:
+  - denom: stake
+    amount: "100000000"
+  pubkey: ""
+  accountnumber: 3
+  sequence: 0
+  name: bonded_tokens_pool
+  permissions:
+  - burner
+  - staking
+
+GetAccount ==================== |
+  address: friday1m3h30wlvsf8llruxtpukdvsy0km2kum8lyd6af
+  coins: []
+  pubkey: ""
+  accountnumber: 5
+  sequence: 0
+  name: mint
+  permissions:
+  - minter
+
+GetAccount ==================== |
+  address: friday1m3h30wlvsf8llruxtpukdvsy0km2kum8lyd6af
+  coins: []
+  pubkey: ""
+  accountnumber: 5
+  sequence: 0
+  name: mint
+  permissions:
+  - minter
+
+GetAccount ==================== |
+  address: friday1m3h30wlvsf8llruxtpukdvsy0km2kum8lyd6af
+  coins: []
+  pubkey: ""
+  accountnumber: 5
+  sequence: 0
+  name: mint
+  permissions:
+  - minter
+
+SetAccount ==================== |
+  address: friday1m3h30wlvsf8llruxtpukdvsy0km2kum8lyd6af
+  coins:
+  - denom: stake
+    amount: "20"
+  pubkey: ""
+  accountnumber: 5
+  sequence: 0
+  name: mint
+  permissions:
+  - minter
+
+GetAccount ==================== |
+  address: friday17xpfvakm2amg962yls6f84z3kell8c5l8vfz35
+  coins: []
+  pubkey: ""
+  accountnumber: 6
+  sequence: 0
+  name: fee_collector
+  permissions: []
+
+GetAccount ==================== |
+  address: friday1m3h30wlvsf8llruxtpukdvsy0km2kum8lyd6af
+  coins:
+  - denom: stake
+    amount: "20"
+  pubkey: ""
+  accountnumber: 5
+  sequence: 0
+  name: mint
+  permissions:
+  - minter
+
+GetAccount ==================== |
+  address: friday1m3h30wlvsf8llruxtpukdvsy0km2kum8lyd6af
+  coins:
+  - denom: stake
+    amount: "20"
+  pubkey: ""
+  accountnumber: 5
+  sequence: 0
+  name: mint
+  permissions:
+  - minter
+
+SetAccount ==================== |
+  address: friday1m3h30wlvsf8llruxtpukdvsy0km2kum8lyd6af
+  coins: []
+  pubkey: ""
+  accountnumber: 5
+  sequence: 0
+  name: mint
+  permissions:
+  - minter
+
+GetAccount ==================== |
+  address: friday17xpfvakm2amg962yls6f84z3kell8c5l8vfz35
+  coins: []
+  pubkey: ""
+  accountnumber: 6
+  sequence: 0
+  name: fee_collector
+  permissions: []
+
+GetAccount ==================== |
+  address: friday17xpfvakm2amg962yls6f84z3kell8c5l8vfz35
+  coins: []
+  pubkey: ""
+  accountnumber: 6
+  sequence: 0
+  name: fee_collector
+  permissions: []
+
+SetAccount ==================== |
+  address: friday17xpfvakm2amg962yls6f84z3kell8c5l8vfz35
+  coins:
+  - denom: stake
+    amount: "20"
+  pubkey: ""
+  accountnumber: 6
+  sequence: 0
+  name: fee_collector
+  permissions: []
+
+GetAccount ==================== |
+  address: friday17xpfvakm2amg962yls6f84z3kell8c5l8vfz35
+  coins:
+  - denom: stake
+    amount: "20"
+  pubkey: ""
+  accountnumber: 6
+  sequence: 0
+  name: fee_collector
+  permissions: []
+
+GetAccount ==================== |
+  address: friday1jv65s3grqf6v6jl3dp4t6c9t9rk99cd8s2w7nk
+  coins:
+  - denom: atolo
+    amount: "100"
+  - denom: stake
+    amount: "460"
+  pubkey: ""
+  accountnumber: 1
+  sequence: 0
+  name: distribution
+  permissions: []
+
+GetAccount ==================== |
+  address: friday17xpfvakm2amg962yls6f84z3kell8c5l8vfz35
+  coins:
+  - denom: stake
+    amount: "20"
+  pubkey: ""
+  accountnumber: 6
+  sequence: 0
+  name: fee_collector
+  permissions: []
+
+GetAccount ==================== |
+  address: friday17xpfvakm2amg962yls6f84z3kell8c5l8vfz35
+  coins:
+  - denom: stake
+    amount: "20"
+  pubkey: ""
+  accountnumber: 6
+  sequence: 0
+  name: fee_collector
+  permissions: []
+
+SetAccount ==================== |
+  address: friday17xpfvakm2amg962yls6f84z3kell8c5l8vfz35
+  coins: []
+  pubkey: ""
+  accountnumber: 6
+  sequence: 0
+  name: fee_collector
+  permissions: []
+
+GetAccount ==================== |
+  address: friday1jv65s3grqf6v6jl3dp4t6c9t9rk99cd8s2w7nk
+  coins:
+  - denom: atolo
+    amount: "100"
+  - denom: stake
+    amount: "460"
+  pubkey: ""
+  accountnumber: 1
+  sequence: 0
+  name: distribution
+  permissions: []
+
+GetAccount ==================== |
+  address: friday1jv65s3grqf6v6jl3dp4t6c9t9rk99cd8s2w7nk
+  coins:
+  - denom: atolo
+    amount: "100"
+  - denom: stake
+    amount: "460"
+  pubkey: ""
+  accountnumber: 1
+  sequence: 0
+  name: distribution
+  permissions: []
+
+SetAccount ==================== |
+  address: friday1jv65s3grqf6v6jl3dp4t6c9t9rk99cd8s2w7nk
+  coins:
+  - denom: atolo
+    amount: "100"
+  - denom: stake
+    amount: "480"
+  pubkey: ""
+  accountnumber: 1
+  sequence: 0
+  name: distribution
+  permissions: []
+
+I[2020-10-13|13:14:30.461] Executed block                               module=state height=24 validTxs=0 invalidTxs=0
+I[2020-10-13|13:14:30.467] Committed state                              module=state height=24 txs=0 appHash=5AA7C51D531E70ACEAEEBCF2FF15ADDC76151EE760910EC1C4E47FD0ACB94E9C
+==================== minGasPrices: 0.000500000000000000atolo
+GetAccount ==================== Account:
+  Address:       friday1hszttc7vtjc9urknenmn0ldwca8uvdkzcfjemw
+  Pubkey:        fridaypub1addwnpepqdp8agzh666qe99awn7yvv876e4mxyarj234kh7e2s8mt6k8yhrwgjqcza3
+  Coins:         99999999999999999800atolo,900000000stake
+  AccountNumber: 0
+  Sequence:      2
+anteHandler ==================== Account:
+  Address:       friday1hszttc7vtjc9urknenmn0ldwca8uvdkzcfjemw
+  Pubkey:        fridaypub1addwnpepqdp8agzh666qe99awn7yvv876e4mxyarj234kh7e2s8mt6k8yhrwgjqcza3
+  Coins:         99999999999999999800atolo,900000000stake
+  AccountNumber: 0
+  Sequence:      2 true
+GetAccount ==================== |
+  address: friday17xpfvakm2amg962yls6f84z3kell8c5l8vfz35
+  coins: []
+  pubkey: ""
+  accountnumber: 6
+  sequence: 0
+  name: fee_collector
+  permissions: []
+
+GetAccount ==================== Account:
+  Address:       friday1hszttc7vtjc9urknenmn0ldwca8uvdkzcfjemw
+  Pubkey:        fridaypub1addwnpepqdp8agzh666qe99awn7yvv876e4mxyarj234kh7e2s8mt6k8yhrwgjqcza3
+  Coins:         99999999999999999800atolo,900000000stake
+  AccountNumber: 0
+  Sequence:      2
+GetAccount ==================== Account:
+  Address:       friday1hszttc7vtjc9urknenmn0ldwca8uvdkzcfjemw
+  Pubkey:        fridaypub1addwnpepqdp8agzh666qe99awn7yvv876e4mxyarj234kh7e2s8mt6k8yhrwgjqcza3
+  Coins:         99999999999999999800atolo,900000000stake
+  AccountNumber: 0
+  Sequence:      2
+SetAccount ==================== Account:
+  Address:       friday1hszttc7vtjc9urknenmn0ldwca8uvdkzcfjemw
+  Pubkey:        fridaypub1addwnpepqdp8agzh666qe99awn7yvv876e4mxyarj234kh7e2s8mt6k8yhrwgjqcza3
+  Coins:         99999999999999999700atolo,900000000stake
+  AccountNumber: 0
+  Sequence:      2
+GetAccount ==================== |
+  address: friday17xpfvakm2amg962yls6f84z3kell8c5l8vfz35
+  coins: []
+  pubkey: ""
+  accountnumber: 6
+  sequence: 0
+  name: fee_collector
+  permissions: []
+
+GetAccount ==================== |
+  address: friday17xpfvakm2amg962yls6f84z3kell8c5l8vfz35
+  coins: []
+  pubkey: ""
+  accountnumber: 6
+  sequence: 0
+  name: fee_collector
+  permissions: []
+
+SetAccount ==================== |
+  address: friday17xpfvakm2amg962yls6f84z3kell8c5l8vfz35
+  coins:
+  - denom: atolo
+    amount: "100"
+  pubkey: ""
+  accountnumber: 6
+  sequence: 0
+  name: fee_collector
+  permissions: []
+
+DeductFees ==================== 100 99999999999999999800atolo,900000000stake
+GetAccount ==================== Account:
+  Address:       friday1hszttc7vtjc9urknenmn0ldwca8uvdkzcfjemw
+  Pubkey:        fridaypub1addwnpepqdp8agzh666qe99awn7yvv876e4mxyarj234kh7e2s8mt6k8yhrwgjqcza3
+  Coins:         99999999999999999700atolo,900000000stake
+  AccountNumber: 0
+  Sequence:      2
+SetAccount ==================== Account:
+  Address:       friday1hszttc7vtjc9urknenmn0ldwca8uvdkzcfjemw
+  Pubkey:        fridaypub1addwnpepqdp8agzh666qe99awn7yvv876e4mxyarj234kh7e2s8mt6k8yhrwgjqcza3
+  Coins:         99999999999999999700atolo,900000000stake
+  AccountNumber: 0
+  Sequence:      3
+GetAccount ==================== |
+  address: friday1fl48vsnmsdzcv85q5d2q4z5ajdha8yu3zwrdr7
+  coins:
+  - denom: stake
+    amount: "100000000"
+  pubkey: ""
+  accountnumber: 3
+  sequence: 0
+  name: bonded_tokens_pool
+  permissions:
+  - burner
+  - staking
+
+GetAccount ==================== |
+  address: friday1m3h30wlvsf8llruxtpukdvsy0km2kum8lyd6af
+  coins: []
+  pubkey: ""
+  accountnumber: 5
+  sequence: 0
+  name: mint
+  permissions:
+  - minter
+
+GetAccount ==================== |
+  address: friday1m3h30wlvsf8llruxtpukdvsy0km2kum8lyd6af
+  coins: []
+  pubkey: ""
+  accountnumber: 5
+  sequence: 0
+  name: mint
+  permissions:
+  - minter
+
+GetAccount ==================== |
+  address: friday1m3h30wlvsf8llruxtpukdvsy0km2kum8lyd6af
+  coins: []
+  pubkey: ""
+  accountnumber: 5
+  sequence: 0
+  name: mint
+  permissions:
+  - minter
+
+SetAccount ==================== |
+  address: friday1m3h30wlvsf8llruxtpukdvsy0km2kum8lyd6af
+  coins:
+  - denom: stake
+    amount: "20"
+  pubkey: ""
+  accountnumber: 5
+  sequence: 0
+  name: mint
+  permissions:
+  - minter
+
+GetAccount ==================== |
+  address: friday17xpfvakm2amg962yls6f84z3kell8c5l8vfz35
+  coins: []
+  pubkey: ""
+  accountnumber: 6
+  sequence: 0
+  name: fee_collector
+  permissions: []
+
+GetAccount ==================== |
+  address: friday1m3h30wlvsf8llruxtpukdvsy0km2kum8lyd6af
+  coins:
+  - denom: stake
+    amount: "20"
+  pubkey: ""
+  accountnumber: 5
+  sequence: 0
+  name: mint
+  permissions:
+  - minter
+
+GetAccount ==================== |
+  address: friday1m3h30wlvsf8llruxtpukdvsy0km2kum8lyd6af
+  coins:
+  - denom: stake
+    amount: "20"
+  pubkey: ""
+  accountnumber: 5
+  sequence: 0
+  name: mint
+  permissions:
+  - minter
+
+SetAccount ==================== |
+  address: friday1m3h30wlvsf8llruxtpukdvsy0km2kum8lyd6af
+  coins: []
+  pubkey: ""
+  accountnumber: 5
+  sequence: 0
+  name: mint
+  permissions:
+  - minter
+
+GetAccount ==================== |
+  address: friday17xpfvakm2amg962yls6f84z3kell8c5l8vfz35
+  coins: []
+  pubkey: ""
+  accountnumber: 6
+  sequence: 0
+  name: fee_collector
+  permissions: []
+
+GetAccount ==================== |
+  address: friday17xpfvakm2amg962yls6f84z3kell8c5l8vfz35
+  coins: []
+  pubkey: ""
+  accountnumber: 6
+  sequence: 0
+  name: fee_collector
+  permissions: []
+
+SetAccount ==================== |
+  address: friday17xpfvakm2amg962yls6f84z3kell8c5l8vfz35
+  coins:
+  - denom: stake
+    amount: "20"
+  pubkey: ""
+  accountnumber: 6
+  sequence: 0
+  name: fee_collector
+  permissions: []
+
+GetAccount ==================== |
+  address: friday17xpfvakm2amg962yls6f84z3kell8c5l8vfz35
+  coins:
+  - denom: stake
+    amount: "20"
+  pubkey: ""
+  accountnumber: 6
+  sequence: 0
+  name: fee_collector
+  permissions: []
+
+GetAccount ==================== |
+  address: friday1jv65s3grqf6v6jl3dp4t6c9t9rk99cd8s2w7nk
+  coins:
+  - denom: atolo
+    amount: "100"
+  - denom: stake
+    amount: "480"
+  pubkey: ""
+  accountnumber: 1
+  sequence: 0
+  name: distribution
+  permissions: []
+
+GetAccount ==================== |
+  address: friday17xpfvakm2amg962yls6f84z3kell8c5l8vfz35
+  coins:
+  - denom: stake
+    amount: "20"
+  pubkey: ""
+  accountnumber: 6
+  sequence: 0
+  name: fee_collector
+  permissions: []
+
+GetAccount ==================== |
+  address: friday17xpfvakm2amg962yls6f84z3kell8c5l8vfz35
+  coins:
+  - denom: stake
+    amount: "20"
+  pubkey: ""
+  accountnumber: 6
+  sequence: 0
+  name: fee_collector
+  permissions: []
+
+SetAccount ==================== |
+  address: friday17xpfvakm2amg962yls6f84z3kell8c5l8vfz35
+  coins: []
+  pubkey: ""
+  accountnumber: 6
+  sequence: 0
+  name: fee_collector
+  permissions: []
+
+GetAccount ==================== |
+  address: friday1jv65s3grqf6v6jl3dp4t6c9t9rk99cd8s2w7nk
+  coins:
+  - denom: atolo
+    amount: "100"
+  - denom: stake
+    amount: "480"
+  pubkey: ""
+  accountnumber: 1
+  sequence: 0
+  name: distribution
+  permissions: []
+
+GetAccount ==================== |
+  address: friday1jv65s3grqf6v6jl3dp4t6c9t9rk99cd8s2w7nk
+  coins:
+  - denom: atolo
+    amount: "100"
+  - denom: stake
+    amount: "480"
+  pubkey: ""
+  accountnumber: 1
+  sequence: 0
+  name: distribution
+  permissions: []
+
+SetAccount ==================== |
+  address: friday1jv65s3grqf6v6jl3dp4t6c9t9rk99cd8s2w7nk
+  coins:
+  - denom: atolo
+    amount: "100"
+  - denom: stake
+    amount: "500"
+  pubkey: ""
+  accountnumber: 1
+  sequence: 0
+  name: distribution
+  permissions: []
+
+GetAccount ==================== Account:
+  Address:       friday1hszttc7vtjc9urknenmn0ldwca8uvdkzcfjemw
+  Pubkey:        fridaypub1addwnpepqdp8agzh666qe99awn7yvv876e4mxyarj234kh7e2s8mt6k8yhrwgjqcza3
+  Coins:         99999999999999999800atolo,900000000stake
+  AccountNumber: 0
+  Sequence:      2
+anteHandler ==================== Account:
+  Address:       friday1hszttc7vtjc9urknenmn0ldwca8uvdkzcfjemw
+  Pubkey:        fridaypub1addwnpepqdp8agzh666qe99awn7yvv876e4mxyarj234kh7e2s8mt6k8yhrwgjqcza3
+  Coins:         99999999999999999800atolo,900000000stake
+  AccountNumber: 0
+  Sequence:      2 false
+GetAccount ==================== |
+  address: friday17xpfvakm2amg962yls6f84z3kell8c5l8vfz35
+  coins: []
+  pubkey: ""
+  accountnumber: 6
+  sequence: 0
+  name: fee_collector
+  permissions: []
+
+GetAccount ==================== Account:
+  Address:       friday1hszttc7vtjc9urknenmn0ldwca8uvdkzcfjemw
+  Pubkey:        fridaypub1addwnpepqdp8agzh666qe99awn7yvv876e4mxyarj234kh7e2s8mt6k8yhrwgjqcza3
+  Coins:         99999999999999999800atolo,900000000stake
+  AccountNumber: 0
+  Sequence:      2
+GetAccount ==================== Account:
+  Address:       friday1hszttc7vtjc9urknenmn0ldwca8uvdkzcfjemw
+  Pubkey:        fridaypub1addwnpepqdp8agzh666qe99awn7yvv876e4mxyarj234kh7e2s8mt6k8yhrwgjqcza3
+  Coins:         99999999999999999800atolo,900000000stake
+  AccountNumber: 0
+  Sequence:      2
+SetAccount ==================== Account:
+  Address:       friday1hszttc7vtjc9urknenmn0ldwca8uvdkzcfjemw
+  Pubkey:        fridaypub1addwnpepqdp8agzh666qe99awn7yvv876e4mxyarj234kh7e2s8mt6k8yhrwgjqcza3
+  Coins:         99999999999999999700atolo,900000000stake
+  AccountNumber: 0
+  Sequence:      2
+GetAccount ==================== |
+  address: friday17xpfvakm2amg962yls6f84z3kell8c5l8vfz35
+  coins: []
+  pubkey: ""
+  accountnumber: 6
+  sequence: 0
+  name: fee_collector
+  permissions: []
+
+GetAccount ==================== |
+  address: friday17xpfvakm2amg962yls6f84z3kell8c5l8vfz35
+  coins: []
+  pubkey: ""
+  accountnumber: 6
+  sequence: 0
+  name: fee_collector
+  permissions: []
+
+SetAccount ==================== |
+  address: friday17xpfvakm2amg962yls6f84z3kell8c5l8vfz35
+  coins:
+  - denom: atolo
+    amount: "100"
+  pubkey: ""
+  accountnumber: 6
+  sequence: 0
+  name: fee_collector
+  permissions: []
+
+DeductFees ==================== 100 99999999999999999800atolo,900000000stake
+GetAccount ==================== Account:
+  Address:       friday1hszttc7vtjc9urknenmn0ldwca8uvdkzcfjemw
+  Pubkey:        fridaypub1addwnpepqdp8agzh666qe99awn7yvv876e4mxyarj234kh7e2s8mt6k8yhrwgjqcza3
+  Coins:         99999999999999999700atolo,900000000stake
+  AccountNumber: 0
+  Sequence:      2
+SetAccount ==================== Account:
+  Address:       friday1hszttc7vtjc9urknenmn0ldwca8uvdkzcfjemw
+  Pubkey:        fridaypub1addwnpepqdp8agzh666qe99awn7yvv876e4mxyarj234kh7e2s8mt6k8yhrwgjqcza3
+  Coins:         99999999999999999700atolo,900000000stake
+  AccountNumber: 0
+  Sequence:      3
+GetAccount ==================== Account:
+  Address:       friday1hszttc7vtjc9urknenmn0ldwca8uvdkzcfjemw
+  Pubkey:        fridaypub1addwnpepqdp8agzh666qe99awn7yvv876e4mxyarj234kh7e2s8mt6k8yhrwgjqcza3
+  Coins:         99999999999999999700atolo,900000000stake
+  AccountNumber: 0
+  Sequence:      3
+GetAccount ==================== Account:
+  Address:       friday1hszttc7vtjc9urknenmn0ldwca8uvdkzcfjemw
+  Pubkey:        fridaypub1addwnpepqdp8agzh666qe99awn7yvv876e4mxyarj234kh7e2s8mt6k8yhrwgjqcza3
+  Coins:         99999999999999999700atolo,900000000stake
+  AccountNumber: 0
+  Sequence:      3
+SetAccount ==================== Account:
+  Address:       friday1hszttc7vtjc9urknenmn0ldwca8uvdkzcfjemw
+  Pubkey:        fridaypub1addwnpepqdp8agzh666qe99awn7yvv876e4mxyarj234kh7e2s8mt6k8yhrwgjqcza3
+  Coins:         99999999999999999600atolo,900000000stake
+  AccountNumber: 0
+  Sequence:      3
+GetAccount ==================== Account:
+  Address:       friday1ty2p43vehvqmmgh0590e5jmkkgp3vary29mmkz
+  Pubkey:        
+  Coins:         100atolo
+  AccountNumber: 7
+  Sequence:      0
+GetAccount ==================== Account:
+  Address:       friday1ty2p43vehvqmmgh0590e5jmkkgp3vary29mmkz
+  Pubkey:        
+  Coins:         100atolo
+  AccountNumber: 7
+  Sequence:      0
+SetAccount ==================== Account:
+  Address:       friday1ty2p43vehvqmmgh0590e5jmkkgp3vary29mmkz
+  Pubkey:        
+  Coins:         200atolo
+  AccountNumber: 7
+  Sequence:      0
+I[2020-10-13|13:14:35.501] Executed block                               module=state height=25 validTxs=1 invalidTxs=0
+I[2020-10-13|13:14:35.508] Committed state                              module=state height=25 txs=1 appHash=6F60B13EAD280883DC95A5E82536F8C8655D16A7DD4DAE06671EC3F42915429C
+GetAccount ==================== |
+  address: friday1fl48vsnmsdzcv85q5d2q4z5ajdha8yu3zwrdr7
+  coins:
+  - denom: stake
+    amount: "100000000"
+  pubkey: ""
+  accountnumber: 3
+  sequence: 0
+  name: bonded_tokens_pool
+  permissions:
+  - burner
+  - staking
+
+GetAccount ==================== |
+  address: friday1m3h30wlvsf8llruxtpukdvsy0km2kum8lyd6af
+  coins: []
+  pubkey: ""
+  accountnumber: 5
+  sequence: 0
+  name: mint
+  permissions:
+  - minter
+
+GetAccount ==================== |
+  address: friday1m3h30wlvsf8llruxtpukdvsy0km2kum8lyd6af
+  coins: []
+  pubkey: ""
+  accountnumber: 5
+  sequence: 0
+  name: mint
+  permissions:
+  - minter
+
+GetAccount ==================== |
+  address: friday1m3h30wlvsf8llruxtpukdvsy0km2kum8lyd6af
+  coins: []
+  pubkey: ""
+  accountnumber: 5
+  sequence: 0
+  name: mint
+  permissions:
+  - minter
+
+SetAccount ==================== |
+  address: friday1m3h30wlvsf8llruxtpukdvsy0km2kum8lyd6af
+  coins:
+  - denom: stake
+    amount: "20"
+  pubkey: ""
+  accountnumber: 5
+  sequence: 0
+  name: mint
+  permissions:
+  - minter
+
+GetAccount ==================== |
+  address: friday17xpfvakm2amg962yls6f84z3kell8c5l8vfz35
+  coins:
+  - denom: atolo
+    amount: "100"
+  pubkey: ""
+  accountnumber: 6
+  sequence: 0
+  name: fee_collector
+  permissions: []
+
+GetAccount ==================== |
+  address: friday1m3h30wlvsf8llruxtpukdvsy0km2kum8lyd6af
+  coins:
+  - denom: stake
+    amount: "20"
+  pubkey: ""
+  accountnumber: 5
+  sequence: 0
+  name: mint
+  permissions:
+  - minter
+
+GetAccount ==================== |
+  address: friday1m3h30wlvsf8llruxtpukdvsy0km2kum8lyd6af
+  coins:
+  - denom: stake
+    amount: "20"
+  pubkey: ""
+  accountnumber: 5
+  sequence: 0
+  name: mint
+  permissions:
+  - minter
+
+SetAccount ==================== |
+  address: friday1m3h30wlvsf8llruxtpukdvsy0km2kum8lyd6af
+  coins: []
+  pubkey: ""
+  accountnumber: 5
+  sequence: 0
+  name: mint
+  permissions:
+  - minter
+
+GetAccount ==================== |
+  address: friday17xpfvakm2amg962yls6f84z3kell8c5l8vfz35
+  coins:
+  - denom: atolo
+    amount: "100"
+  pubkey: ""
+  accountnumber: 6
+  sequence: 0
+  name: fee_collector
+  permissions: []
+
+GetAccount ==================== |
+  address: friday17xpfvakm2amg962yls6f84z3kell8c5l8vfz35
+  coins:
+  - denom: atolo
+    amount: "100"
+  pubkey: ""
+  accountnumber: 6
+  sequence: 0
+  name: fee_collector
+  permissions: []
+
+SetAccount ==================== |
+  address: friday17xpfvakm2amg962yls6f84z3kell8c5l8vfz35
+  coins:
+  - denom: atolo
+    amount: "100"
+  - denom: stake
+    amount: "20"
+  pubkey: ""
+  accountnumber: 6
+  sequence: 0
+  name: fee_collector
+  permissions: []
+
+GetAccount ==================== |
+  address: friday17xpfvakm2amg962yls6f84z3kell8c5l8vfz35
+  coins:
+  - denom: atolo
+    amount: "100"
+  - denom: stake
+    amount: "20"
+  pubkey: ""
+  accountnumber: 6
+  sequence: 0
+  name: fee_collector
+  permissions: []
+
+GetAccount ==================== |
+  address: friday1jv65s3grqf6v6jl3dp4t6c9t9rk99cd8s2w7nk
+  coins:
+  - denom: atolo
+    amount: "100"
+  - denom: stake
+    amount: "500"
+  pubkey: ""
+  accountnumber: 1
+  sequence: 0
+  name: distribution
+  permissions: []
+
+GetAccount ==================== |
+  address: friday17xpfvakm2amg962yls6f84z3kell8c5l8vfz35
+  coins:
+  - denom: atolo
+    amount: "100"
+  - denom: stake
+    amount: "20"
+  pubkey: ""
+  accountnumber: 6
+  sequence: 0
+  name: fee_collector
+  permissions: []
+
+GetAccount ==================== |
+  address: friday17xpfvakm2amg962yls6f84z3kell8c5l8vfz35
+  coins:
+  - denom: atolo
+    amount: "100"
+  - denom: stake
+    amount: "20"
+  pubkey: ""
+  accountnumber: 6
+  sequence: 0
+  name: fee_collector
+  permissions: []
+
+SetAccount ==================== |
+  address: friday17xpfvakm2amg962yls6f84z3kell8c5l8vfz35
+  coins: []
+  pubkey: ""
+  accountnumber: 6
+  sequence: 0
+  name: fee_collector
+  permissions: []
+
+GetAccount ==================== |
+  address: friday1jv65s3grqf6v6jl3dp4t6c9t9rk99cd8s2w7nk
+  coins:
+  - denom: atolo
+    amount: "100"
+  - denom: stake
+    amount: "500"
+  pubkey: ""
+  accountnumber: 1
+  sequence: 0
+  name: distribution
+  permissions: []
+
+GetAccount ==================== |
+  address: friday1jv65s3grqf6v6jl3dp4t6c9t9rk99cd8s2w7nk
+  coins:
+  - denom: atolo
+    amount: "100"
+  - denom: stake
+    amount: "500"
+  pubkey: ""
+  accountnumber: 1
+  sequence: 0
+  name: distribution
+  permissions: []
+
+SetAccount ==================== |
+  address: friday1jv65s3grqf6v6jl3dp4t6c9t9rk99cd8s2w7nk
+  coins:
+  - denom: atolo
+    amount: "200"
+  - denom: stake
+    amount: "520"
+  pubkey: ""
+  accountnumber: 1
+  sequence: 0
+  name: distribution
+  permissions: []
+
+I[2020-10-13|13:14:40.537] Executed block                               module=state height=26 validTxs=0 invalidTxs=0
+I[2020-10-13|13:14:40.544] Committed state                              module=state height=26 txs=0 appHash=8F8A923F60EC17F8D73BD4DFFFAD76E636A503D66EE5F27FD5118C8B82097A91
